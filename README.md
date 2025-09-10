@@ -3,6 +3,8 @@
 
 A simple and responsive Weather App built with React.js that fetches real-time weather data from the OpenWeather API.
 
+[Live Demo](https://weather-app-five-sepia-87.vercel.app/)
+
 ---
 ## 🚀 Features:
 -  🌍 Search weather by city name
